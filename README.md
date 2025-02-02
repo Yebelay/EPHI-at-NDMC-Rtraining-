@@ -61,6 +61,6 @@ Participants can access the slides and materials for each session below. Simply 
 2. Click on the **PDF** links to download the slides for offline use.
 3. Materials will be updated as the training progresses. Please check back for updates.
 
-If you have any questions or issues, please feel free to contact me through [LinkedIn](https://www.linkedin.com/in/yebelay/).
+If you have any questions or issues, please feel free to contact me through [yebelay.ma@gmail.com](yebelay.ma@gmail.com)/[LinkedIn](https://www.linkedin.com/in/yebelay/).
 
 Happy Learning! 🎓  
