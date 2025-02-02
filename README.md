@@ -18,8 +18,59 @@ This training is designed for professionals looking to enhance their skills in *
 Participants can access the slides and materials for each session below. Simply click on the links to view or download them.
 
 ---
+## 📅 Training Schedules
 
-## 📅 Training Schedule & Materials
+### **DAY 1: Wednesday, December 25, 2024**
+
+| Time | Topic | Facilitator |
+|------|-----------------------------------------------|-------------|
+| 08:30 AM – 09:30 AM | Registration and Welcoming, Self-introduction, Training Expectations, Purpose of the Training | AAU & EPHI Staff |
+| 09:30 AM – 10:30 AM | Statistical Models, Introduction to Multilevel Modelling, Fixed & Random Effect Models, Mixed Effect Models | Dr. Merga B. |
+| 10:30 AM – 10:50 AM | Health break |  |
+| 10:50 AM – 12:30 PM | Installing Required Packages, Data Management and Processing | Dr. Merga B. |
+| 12:30 PM – 01:30 PM | Lunch break |  |
+| 01:30 PM – 03:30 PM | Exploratory Analysis, Multilevel Linear Regression Model, Model Fitting & Interpretations, Exercise | Dr. Merga B. |
+| 03:30 PM – 03:50 PM | Health break |  |
+| 03:50 PM – 04:30 PM | Multilevel Linear Regression Model, Model Fitting & Interpretations, Exercise | Dr. Merga B. |
+
+### **DAY 2: Thursday, December 26, 2024**
+
+| Time | Topic | Facilitator |
+|------|-----------------------------------------------|-------------|
+| 09:00 AM – 10:30 AM | Recap, Exploratory Analysis, Multilevel Binary Logistic Regression Model, Model Fitting & Interpretations, Exercise | Dr. Merga B. |
+| 10:30 AM – 10:50 AM | Health break |  |
+| 10:50 AM – 12:30 PM | Multilevel Binary Logistic Regression Model, Model Fitting & Interpretations, Exercise | Dr. Merga B. |
+| 12:30 PM – 01:30 PM | Lunch break |  |
+| 01:30 PM – 03:30 PM | Install Basic R-Packages for Spatial Data Management, Visualization & Modeling | Mr. Yebelay / Mr. Mulugeta G. |
+| 03:30 PM – 03:50 PM | Health break |  |
+| 03:50 PM – 04:30 PM | Download & Explore/Visualize Different Shapefiles, Add Tabular Data into Shapefiles, Practical Session | Mr. Yebelay / Mr. Mulugeta G. |
+
+### **DAY 3: Friday, December 27, 2024**
+
+| Time | Topic | Facilitator |
+|------|-----------------------------------------------|-------------|
+| 09:00 AM – 10:30 AM | Recap, Overview of Spatial and Non-Spatial Data Analysis Framework | Dr. Bedilu A. |
+| 10:30 AM – 10:50 AM | Health break |  |
+| 10:50 AM – 12:30 PM | Spatial Exploratory Data Analysis, Spatial Weight Construction, Case Studies | Dr. Bedilu A. |
+| 12:30 PM – 01:30 PM | Lunch break |  |
+| 01:30 PM – 03:30 PM | Investigating Spatial Dependence, Exercises | Dr. Bedilu A. |
+| 03:30 PM – 03:50 PM | Health break |  |
+| 03:50 PM – 04:30 PM | Spatial Modeling Framework, Areal Data Modeling | Dr. Bedilu A. |
+
+### **DAY 4: Saturday, December 28, 2024**
+
+| Time | Topic | Facilitator |
+|------|-----------------------------------------------|-------------|
+| 09:00 AM – 10:30 AM | Recap, Case Studies & Practical Session on Areal/Lattice Data Modeling | Dr. Bedilu A. |
+| 10:30 AM – 10:50 AM | Health break |  |
+| 10:50 AM – 12:30 PM | Geostatistical Modeling, Case Studies | Dr. Bedilu A. |
+| 12:30 PM – 01:30 PM | Lunch break |  |
+| 01:30 PM – 03:30 PM | Practical Session | Dr. Bedilu A. |
+| 03:30 PM – 03:50 PM | Health break |  |
+| 03:50 PM – 04:30 PM | Session Summary & Way Forward | Dr. Bedilu A. |
+
+
+## 📂 Training Materials
 
 | Date   | Topic  | Slides |
 |--------|--------------------------------------------|------------------------------------------------|
