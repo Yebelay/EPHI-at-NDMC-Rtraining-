@@ -52,7 +52,7 @@ Participants can access the slides and materials for each session below. Simply 
 | Data data management in R with the Tidyverse (Part 3: Reshape) | [View](https://yebelay.rbind.io/static/slides/ephi_day2-3/reshape.html) | [Download]() |
 | Data data management in R with the Tidyverse (Part 4: Merging) | [View](https://yebelay.rbind.io/static/slides/ephi_day2-3/data_merge.html) | [Download]() |
 | Data Visualization ggplot2 (part 1: Plot)| [View](https://yebelay.rbind.io/static/slides/ephi_day4/graph.html) | [Download]() |
-| Data Visualization ggplot2 (part 2: plot for factor variables | [View](https://yebelay.rbind.io/static/slides/ephi_day4/categorical variables.html) | [Download]() |
+| Data Visualization ggplot2 (part 2: plot for factor variables | [View](https://yebelay.rbind.io/static/slides/ephi_day4/factors.html) | [Download]() |
 | Reproducible Reports with R Markdown | [View](https://yebelay.rbind.io/static/slides/ephi_day4/graph.html) | [Download]() |
 | Data Analysis | [View]() | [Download]() |
 
