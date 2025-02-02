@@ -17,7 +17,7 @@ Welcome to the **EPHI R Training** repository! This repository contains all the 
 ---
 
 ## About This Training
-This training is designed for professionals looking to enhance their skills in **R programming**, focusing on:
+This training is organized by **National Data Management Center (NDMC) at Ethiopian Public Health Institute (EPHI)** for professionals with different backgrounds, focusing on:
 - Understanding R and RStudio
 - Data wrangling using the Tidyverse
 - Data visualization using ggplot2
@@ -36,9 +36,9 @@ Participants can access the slides and materials for each session below. Simply 
 |------|-----------------------------------------------|-------------|
 | Day 1 | Introduction to R and Rstudio  | Yebelay & EPHI Staff |
 | Day 2 | Data manipulation part 1 and 2 | Yebelay B. |
-| day 3 | Data manipulation part 3  | Yebelay B. |
+| day 3 | Data manipulation part 3  | Yebelay B. & EPHI Staff |
 | Day 4 | Data Visualization | Yebelay B. |
-| Day 5 | Creating reproducible reports and Data analysis | Yebelay B. |
+| Day 5 | Creating reproducible reports and Data analysis | Yebelay B. & EPHI Staff |
 
 ---
 
