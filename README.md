@@ -16,7 +16,7 @@ Welcome to the **EPHI R Training** repository! This repository contains all the 
 
 ---
 
-## 📌 About This Training
+## About This Training
 This training is designed for professionals looking to enhance their skills in **R programming**, focusing on:
 - Understanding R and RStudio
 - Data wrangling using the Tidyverse
@@ -30,30 +30,15 @@ Participants can access the slides and materials for each session below. Simply 
 
 ## 📅 Training Schedules
 
-### **DAY 1: Monday, February 03, 2025**
+### Monday, February 03-08, 2025**
 
-| Time | Topic | Facilitator |
+| Days  | Topic | Facilitator |
 |------|-----------------------------------------------|-------------|
-| 08:30 AM – 09:30 AM | Welcoming, Self-introduction, Training Expectations, Purpose of the Training | Yebelay & EPHI Staff |
-| 09:30 AM – 10:30 AM | Installing R and RStudio, overview | Yebelay B. |
-| 10:30 AM – 10:50 AM | Health break |  |
-| 10:50 AM – 12:30 PM | Introduction to R basics | Yebelay B. |
-| 12:30 PM – 01:30 PM | Lunch break |  |
-| 01:30 PM – 03:30 PM | Data manipulation Part 1 | Yebelay B. |
-| 03:30 PM – 03:50 PM | Health break |  |
-| 03:50 PM – 04:30 PM | Data manipulation Part 1 | Yebelay B. |
-
-### **DAY 2: Tuesday, February 04, 2025**
-
-| Time | Topic | Facilitator |
-|------|-----------------------------------------------|-------------|
-| 09:00 AM – 10:30 AM | Recap, Data manipulation Part 1 | Yebelay B. |
-| 10:30 AM – 10:50 AM | Health break |  |
-| 10:50 AM – 12:30 PM | Data manipulation Part 2, Exercise | Yebelay B. |
-| 12:30 PM – 01:30 PM | Lunch break |  |
-| 01:30 PM – 03:30 PM | Data manipulation Part 2 | Yebelay |
-| 03:30 PM – 03:50 PM | Health break |  |
-| 03:50 PM – 04:30 PM | Data manipulation Part 2, Practical Session | Yebelay |
+| Day 1 | Introduction to R and Rstudio  | Yebelay & EPHI Staff |
+| Day 2 | Data manipulation part 1 and 2 | Yebelay B. |
+| day 3 | Data manipulation part 3  | Yebelay B. |
+| Day 4 | Data Visualization | Yebelay B. |
+| Day 5 | Creating reproducible reports and Data analysis | Yebelay B. |
 
 ---
 
