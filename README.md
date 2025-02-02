@@ -28,9 +28,9 @@ Participants can access the slides and materials for each session below. Simply 
 
 ---
 
-## 📅 Training Schedules
+##  Training Schedules 
 
-### Monday, February 03-08, 2025**
+### 📅 Monday, February 03-08, 2025**
 
 | Days  | Topic | Facilitator |
 |------|-----------------------------------------------|-------------|
@@ -42,15 +42,15 @@ Participants can access the slides and materials for each session below. Simply 
 
 ---
 
-## 📂 Training Materials
+##  Training Materials
 
-| Date   | Topic  | Slides |
-|--------|--------------------------------------------|------------------------------------------------|
-| Feb-03 | Introduction to R and RStudio | [HTML](https://yebelay.rbind.io/static/slides/ephi_day1/day%201.html), [PDF]() |
-| Feb-04 | Data Wrangling in R with the Tidyverse (Part 1) | [HTML](https://github.com/Yebelay/RTraining_EPHI/blob/main/02%20data_manipulation/data_wrangling.html), [PDF]() |
-| Feb-05 | Data Wrangling in R with the Tidyverse (Part 2) | [HTML](), [PDF]() |
-| Feb-06 | Reproducible Reports with R Markdown | [HTML](), [PDF]() |
-| Feb-07 | Data Visualization with R and ggplot2 | [HTML](), [PDF]() |
+| Topic  | 📂 HTML Slide | 📂 PDF Slide |
+|--------------------------------------------|------------------------------------------------|------------------------------------------------|
+| Introduction to R and RStudio | [View](https://yebelay.rbind.io/static/slides/ephi_day1/day%201.html) | [Download]() |
+| Data Wrangling in R with the Tidyverse (Part 1) | [View](https://github.com/Yebelay/RTraining_EPHI/blob/main/02%20data_manipulation/data_wrangling.html) | [Download]() |
+| Data Wrangling in R with the Tidyverse (Part 2) | [View]() | [Download]() |
+| Reproducible Reports with R Markdown | [View]() | [Download]() |
+| Data Visualization with R and ggplot2 | [View]() | [Download]() |
 
 ---
 
