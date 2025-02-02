@@ -49,8 +49,9 @@ Participants can access the slides and materials for each session below. Simply 
 | Introduction to R and RStudio | [View](https://yebelay.rbind.io/static/slides/ephi_day1/day%201.html) | [Download]() |
 | Data Wrangling in R with the Tidyverse (Part 1) | [View](https://github.com/Yebelay/RTraining_EPHI/blob/main/02%20data_manipulation/data_wrangling.html) | [Download]() |
 | Data Wrangling in R with the Tidyverse (Part 2) | [View]() | [Download]() |
-| Reproducible Reports with R Markdown | [View]() | [Download]() |
 | Data Visualization with R and ggplot2 | [View]() | [Download]() |
+| Reproducible Reports with R Markdown | [View]() | [Download]() |
+| Data Analysis | [View]() | [Download]() |
 
 ---
 
