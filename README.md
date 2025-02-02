@@ -47,8 +47,10 @@ Participants can access the slides and materials for each session below. Simply 
 | Topic  | 📂 HTML Slide | 📂 PDF Slide |
 |--------------------------------------------|------------------------------------------------|------------------------------------------------|
 | Introduction to R and RStudio | [View](https://yebelay.rbind.io/static/slides/ephi_day1/day%201.html) | [Download]() |
-| Data Wrangling in R with the Tidyverse (Part 1) | [View](https://github.com/Yebelay/RTraining_EPHI/blob/main/02%20data_manipulation/data_wrangling.html) | [Download]() |
-| Data Wrangling in R with the Tidyverse (Part 2) | [View]() | [Download]() |
+| Data Management in R with the Tidyverse (Part 1) | [View](https://yebelay.rbind.io/static/slides/ephi_day2-3/data_wrangling.html) | [Download]() |
+| Data data management in R with the Tidyverse (Part 2: Recoding) | [View](https://yebelay.rbind.io/static/slides/ephi_day2-3/data_wrangling_2.html) | [Download]() |
+| Data data management in R with the Tidyverse (Part 3: Reshape) | [View](https://yebelay.rbind.io/static/slides/ephi_day2-3/reshape.html) | [Download]() |
+| Data data management in R with the Tidyverse (Part 4: Merging) | [View](https://yebelay.rbind.io/static/slides/ephi_day2-3/data_merge.html) | [Download]() |
 | Data Visualization with R and ggplot2 | [View]() | [Download]() |
 | Reproducible Reports with R Markdown | [View]() | [Download]() |
 | Data Analysis | [View]() | [Download]() |
@@ -60,6 +62,6 @@ Participants can access the slides and materials for each session below. Simply 
 2. Click on the **PDF** links to download the slides for offline use.
 3. Materials will be updated as the training progresses. Please check back for updates.
 
-For any questions or issues, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yebelay/).
+If you have any questions or issues, please feel free to contact me through [LinkedIn](https://www.linkedin.com/in/yebelay/).
 
 Happy Learning! 🎓  
