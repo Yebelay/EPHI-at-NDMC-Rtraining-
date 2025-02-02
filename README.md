@@ -1,10 +1,8 @@
-# EPHI-at-NDMC-Rtraining
-
-## R Training Courses
+# R training organized by NDMC at EPHI
 
 **Authors:** [Yebelay](https://github.com/Yebelay)  
 
-Welcome to the **EPHI R Training** repository! This repository contains all the slides and materials for the R training program conducted at NDMC. The training covers key topics.
+Welcome to the **NDMC at EPHI R Training** repository! This repository contains all the slides and materials for the R training program conducted at NDMC. The training covers key topics.
 
 ---
 
