@@ -9,10 +9,10 @@ Welcome to the **EPHI R Training** repository! This repository contains all the 
 ---
 
 ## 📌 Table of Contents
-- [📌 About This Training](#about-this-training)
-- [📅 Training Schedules](#training-schedules)
-- [📂 Training Materials](#training-materials)
-- [🚀 How to Use This Repository](#how-to-use-this-repository)
+- [About This Training](#about-this-training)
+- [Training Schedules](#training-schedules)
+- [Training Materials](#training-materials)
+- [How to Use This Repository](#how-to-use-this-repository)
 
 ---
 
